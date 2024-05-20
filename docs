@@ -1,0 +1,20 @@
+System Resource Utilization:
+
+CPU Usage: Percentage of CPU capacity currently in use.
+Memory Usage: Amount of RAM being used and available memory.
+Disk Usage: Free and used space on storage drives.
+Network Traffic: Incoming and outgoing network data transfer rates.
+Process Management:
+
+Running Processes: List of processes currently running on the system, including memory usage and CPU consumption.
+Resource Consumption per Process: Detailed breakdown of how each process utilizes system resources.
+System Health:
+
+Uptime: Total time the system has been running since the last reboot.
+Disk Health: SMART data or other metrics to indicate the health of storage drives.
+Temperature: Monitor CPU, GPU, or other system component temperatures.
+Additional Data (depending on user configuration):
+
+Log Files: Monitor and display relevant log files for troubleshooting purposes.
+Service Status: Track the status of critical system services (running, stopped, etc.).
+Application Performance: Monitor specific applications or software for performance metrics.
