@@ -8,3 +8,4 @@ authors = ["Joel Adjetey Komieter"]
 
 [dependencies]
 psutil = "3.3.0"
+battery = "0.7.8"
